@@ -8,7 +8,7 @@ I've (roughly) spent the last couple of months curating these profiles (six prin
 > By using these beta profiles, the company MakerGear is not responsible for any downtime or damages caused by failed prints. Also, I'm only able to support MakerGear printers that are using the V4 hotend, meaning M2 Rev.C and older machines are not compatible with these profiles. 
 
 # Download and Installation Instructions:
-[Click here to learn how to download and import the new profiles](https://github.com/Garr-R/PrusaSlicer-MakerGear-Profile/wiki)
+[Click here to learn how to download and import the new profiles](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki)
 
 <p align="center">
    <img width="750" src="https://user-images.githubusercontent.com/52166834/165793110-f45d40fa-3303-4339-9f4d-85f900ca967a.jpg" />
@@ -30,7 +30,7 @@ I've (roughly) spent the last couple of months curating these profiles (six prin
 (The Ultra One will be added later on this year)
 
 ## Documention / Wiki Page:
-### [Click here to read my documentation!](https://github.com/Garr-R/PrusaSlicer-MakerGear-Profile/wiki)
+### [Click here to read my documentation!](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki)
 
 ## Experiencing Print Quality Issues?
-Don't fret - we're here to help! Please visit our wiki for more information on [how to submit a support ticket for these PrusaSlicer profiles](https://github.com/Garr-R/PrusaSlicer-MakerGear-Profile/wiki/Submitting-a-Support-Ticket).
+Don't fret - we're here to help! Please visit our wiki for more information on [how to submit a support ticket for these PrusaSlicer profiles](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki/Submitting-a-Support-Ticket).
