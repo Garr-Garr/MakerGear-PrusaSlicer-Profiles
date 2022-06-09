@@ -2,7 +2,7 @@
 
 Welcome! First and foremost, I'd love to take a brief moment and thank you for trying out the new PrusaSlicer profiles for MakerGear printers. While we can print dozens of part quality tests in-house, nothing beats real world experience. These profiles will eventually be published into the official PrusaSlicer program when the beta is finished, so your feedback is very much appreciated! 
 
-I've (roughly) spent the last couple of months curating these profiles (six printers, ten filament material types) and I can't wait to hear about your experiences using them!
+I've (roughly) spent the last couple of months curating these profiles and I can't wait to hear about your experiences using them!
 
 ## DISCLAIMER
 > By using these beta profiles, the company MakerGear is not responsible for any downtime or damages caused by failed prints. Also, I'm only able to support MakerGear printers that are using the V4 hotend, meaning M2 Rev.C and older machines are not compatible with these profiles. 
