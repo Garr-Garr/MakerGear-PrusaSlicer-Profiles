@@ -5,7 +5,7 @@ Welcome! First and foremost, I'd love to take a brief moment and thank you for t
 I've (roughly) spent the last couple of months curating these profiles and I can't wait to hear about your experiences using them!
 
 ## DISCLAIMER
-> By using these beta profiles, the company MakerGear is not responsible for any downtime or damages caused by failed prints. Also, I'm only able to support MakerGear printers that are using the V4 hotend, meaning M2 Rev.C and older machines are not compatible with these profiles. 
+> By using these beta profiles, the company MakerGear is not responsible for any downtime or damages caused by failed prints. Also, I'm only able to support MakerGear printers that are using the V4 hotend ~ M2 Rev.C and older machines are not compatible with these profiles. 
 
 # Download and Installation Instructions:
 [Click here to learn how to download and import the new profiles](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki)
@@ -23,11 +23,13 @@ I've (roughly) spent the last couple of months curating these profiles and I can
 | M2 (V4 Hotend) | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
 | M2 Dual (V4 Hotend) | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
 | M3 Single Extruder | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
-| M3 Independent Dual | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
-| M3-ID Duplication | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| M3-ID Rev.0 | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| M3-ID Rev.0 Duplication | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| M3-ID Rev.1 | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| M3-ID Rev.1 Duplication | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| Ultra One | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| Ultra One Duplication | :ballot_box_with_check:	 | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
 |  Micro (3D-Printer Kit) | |       |        |                         | :ballot_box_with_check: |
-
-(The Ultra One will be added later on this year)
 
 ## Documention / Wiki Page:
 ### [Click here to read my documentation!](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki)
