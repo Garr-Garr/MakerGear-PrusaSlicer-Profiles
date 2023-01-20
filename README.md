@@ -1,11 +1,9 @@
 # ![MakerGear Logo](https://cdn.shopify.com/s/files/1/0030/7372/files/mg_logo_colors_small.jpg) MakerGear PrusaSlicer Profile (BETA)
 
-Welcome! First and foremost, I'd love to take a brief moment and thank you for trying out the new PrusaSlicer profiles for MakerGear printers. While we can print dozens of part quality tests in-house, nothing beats real world experience. These profiles will eventually be published into the official PrusaSlicer program when the beta is finished, so your feedback is very much appreciated! 
-
-I've (roughly) spent the last couple of months curating these profiles and I can't wait to hear about your experiences using them!
+Welcome! First and foremost, I'd love to take a brief moment and thank you for trying out the new PrusaSlicer profiles for MakerGear printers. While we can print dozens of part quality tests in-house, nothing beats real world experience. These profiles will be published into the official PrusaSlicer program (hopefully in v2.6), so any feedback is very much appreciated! 
 
 ## DISCLAIMER
-> By using these beta profiles, the company MakerGear is not responsible for any downtime or damages caused by failed prints. Also, I'm only able to support MakerGear printers that are using the V4 hotend ~ M2 Rev.C and older machines are not compatible with these profiles. 
+> I'm only able to support MakerGear printers that are using the V4 hotend and 24volt power supply ~ M2 Rev.C and older machines are not compatible with these profiles. If M2 v3b hotend users would like to create their own profile I'd be happy to migrate it into this repo.
 
 # Download and Installation Instructions:
 [Click here to learn how to download and import the new profiles](https://github.com/Garr-R/MakerGear-PrusaSlicer-Profiles/wiki)
