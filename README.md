@@ -1,4 +1,4 @@
-# ![MakerGear Logo](https://cdn.shopify.com/s/files/1/0030/7372/files/mg_logo_colors_small.jpg) MakerGear PrusaSlicer Profile (BETA)
+# ![MakerGear Logo](https://cdn.shopify.com/s/files/1/0030/7372/files/mg_logo_colors_small.jpg) MakerGear PrusaSlicer Profiles
 
 Welcome! First and foremost, I'd love to take a brief moment and thank you for trying out the new PrusaSlicer profiles for MakerGear printers. While we can print dozens of part quality tests in-house, nothing beats real world experience. These profiles will be published into the official PrusaSlicer program (hopefully in v2.6), so any feedback is very much appreciated! 
 
